@@ -12,11 +12,7 @@ Exotic terms found along the road:
  - Rake: `make` for Ruby (Ruby Make). [More](http://guides.rubyonrails.org/command_line.html#rake).
  - Resource: A collection of similar objects. [More](http://guides.rubyonrails.org/routing.html).
 
-> **Resource.** This term is not well defined in this tutorial. It could be confused with the correponding Model, however, it's a bit more than a model. 
-
-> As far as I understand, a resource acts as a middleman between a model and the corresponding routes, while a model is only meant to deal with the data.
-
-> Furtermore, the resource routing system is shipped a REST API generator, and provides a convenient set of methods to interact with routes.
+> **Resource.** This term is not well defined in this tutorial. It could be confused with a model, however, it's a bit more than a model. As far as I understand, a resource acts as a middleman between a model and the corresponding routes, while a model is only meant to deal with the data. Furtermore, the resource routing system is shipped a REST API generator, and provides a convenient set of methods to interact with routes.
 
 ## For Linux users
 
